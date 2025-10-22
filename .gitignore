@@ -1,0 +1,21 @@
+# Système
+.DS_Store
+Thumbs.db
+*.log
+
+# Éditeurs
+.vscode/
+.idea/
+*.sublime-*
+
+# Node (si utilisé)
+node_modules/
+
+# Temporaires
+*.tmp
+*.cache
+.env
+
+# Backup
+*.bak
+*~
